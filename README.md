@@ -1,5 +1,3 @@
-# Diego Omar Aguilar Silvera
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=160&section=header&text=Diego%20Omar%20Aguilar%20Silvera&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
