@@ -37,11 +37,6 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DiegoOmarLuc&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOmarLuc&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=DiegoOmarLuc&theme=tokyonight" />
 </p>
 
